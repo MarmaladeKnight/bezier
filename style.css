@@ -1,0 +1,17 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+#root {
+    position: absolute;
+    z-index: 1;
+}
+
+button {
+    position: absolute;
+    top:25;
+    left: 250;
+    z-index: 2;
+}
